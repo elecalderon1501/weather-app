@@ -1,0 +1,67 @@
+body{
+    background-image: url('./sun-between-clouds.jpg');
+}
+.contenedor{
+    display:inline-flex;
+    flex-direction: column;
+    position: relative;
+    align-content: center;
+    width: 400px;
+    height: 300px;
+    background-color:#2B2840 ;
+    color: white;
+    border-radius: 15px;
+    margin: 20px ;    
+    font-family: Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    padding-top: 15px;
+    opacity: 0.8;
+    animation-name: cambioColor;
+    animation-duration: 3s;
+    
+    
+}
+@keyframes cambioColor {
+    
+    25%{
+        background-color:#3e8797;
+    }
+    50%{
+        background-color: #256d7e;
+    }
+    75%{
+        background-color:#0F4C59 ;
+    }
+    100%{
+        background-color: #2B2840;
+    }
+
+}
+    
+   
+
+
+.contenedor h4{
+    font-size: 32px;
+}
+.contenedor h6{
+    color:#66D9C4;
+    font-weight: bold;
+}
+.contenedor img{
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    
+}
+.btn{
+    width: 20px;
+    margin: 10px;
+    font-size: 16px;
+    align-self: flex-end;
+    background-color:#717348 ;
+    color:#66D9C4;
+    border: none;
+    border-radius: 5px;
+
+}

@@ -1,0 +1,38 @@
+.contenedor {
+     
+    display: flex;
+    text-align: center;
+    align-items: center;
+    float:none;
+    padding-left: 15px;
+    margin-top: 20px;
+    margin-right: 16px;
+    font-size: 17px;
+    border: none;  
+    
+    
+}
+
+.search {
+    background-color:#717348 ;
+    color:#66D9C4;
+    border: none;   
+    align-items:center;  
+    margin-right: 400px;   
+    margin-left: 5px;
+    border-radius: 8px;
+    width: 100px;
+    height: 40px;
+    opacity: 0.9;
+}
+
+
+.contenedor input{
+    background-color: #4E5925;
+    opacity: 0.8;
+    border: none;    
+    border-radius: 6px;
+    height: 40px; 
+    width: 350px;
+ 
+}
