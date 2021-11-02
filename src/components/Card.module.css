@@ -6,15 +6,14 @@ body{
     flex-direction: column;
     position: relative;
     align-content: center;
-    width: 400px;
-    height: 300px;
+    width: 300px;
+    height: 420px;
     background-color:#2B2840 ;
     color: white;
     border-radius: 15px;
-    margin: 20px ;    
+    margin: 30px ;  
     font-family: Geneva, Tahoma, sans-serif;
     font-size: 20px;
-    padding-top: 15px;
     opacity: 0.8;
     animation-name: cambioColor;
     animation-duration: 3s;
@@ -43,15 +42,20 @@ body{
 
 .contenedor h4{
     font-size: 32px;
+    padding: 0%;
 }
 .contenedor h6{
     color:#66D9C4;
     font-weight: bold;
+    font-size: 16px;
+    padding: 0%;
+    margin-top: 0%;
+
 }
 .contenedor img{
     width: 120px;
     height: 120px;
-    position: absolute;
+    position:absolute;
     
 }
 .btn{
