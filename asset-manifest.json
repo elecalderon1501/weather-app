@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/weather-app/static/css/main.f0a9d2c5.chunk.css",
+    "main.js": "/weather-app/static/js/main.6fecd03f.chunk.js",
+    "main.js.map": "/weather-app/static/js/main.6fecd03f.chunk.js.map",
+    "runtime-main.js": "/weather-app/static/js/runtime-main.428c09b4.js",
+    "runtime-main.js.map": "/weather-app/static/js/runtime-main.428c09b4.js.map",
+    "static/js/2.d27f732b.chunk.js": "/weather-app/static/js/2.d27f732b.chunk.js",
+    "static/js/2.d27f732b.chunk.js.map": "/weather-app/static/js/2.d27f732b.chunk.js.map",
+    "static/js/3.48eb3b26.chunk.js": "/weather-app/static/js/3.48eb3b26.chunk.js",
+    "static/js/3.48eb3b26.chunk.js.map": "/weather-app/static/js/3.48eb3b26.chunk.js.map",
+    "index.html": "/weather-app/index.html",
+    "static/css/main.f0a9d2c5.chunk.css.map": "/weather-app/static/css/main.f0a9d2c5.chunk.css.map",
+    "static/js/2.d27f732b.chunk.js.LICENSE.txt": "/weather-app/static/js/2.d27f732b.chunk.js.LICENSE.txt",
+    "static/media/Card.module.css": "/weather-app/static/media/sun-between-clouds.24c4adcd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.428c09b4.js",
+    "static/js/2.d27f732b.chunk.js",
+    "static/css/main.f0a9d2c5.chunk.css",
+    "static/js/main.6fecd03f.chunk.js"
+  ]
+}
